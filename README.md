@@ -42,11 +42,15 @@ Class:
   Multiple HTML elements can share the same class. To create a class; write a period (.) character, followed by a class name. Then, define the CSS properties within curly braces {}.
 
 What are the various formatting tags in HTML?
-
+<b>, <strong>, <i>, <em>, <mark>, <small>, <del>, <ins>, <sub>, <sup>, etc.
 
 How is Cell Padding different from Cell Spacing? With Example
-How can we club two or more rows or columns into a single row or column in an HTML table? With
-Example
+Cell padding is the space between the cell edges and the cell content. By default the padding is set to 0.
+Cell spacing is the space between each cell. By default the space is set to 2 pixels.
+
+How can we club two or more rows or columns into a single row or column in an HTML table? With Example
+
+
 What is the difference between a block-level element and an inline element
 How to create a Hyperlink in HTML? With Example
 What is the use of an iframe tag? With Example.
