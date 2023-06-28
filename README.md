@@ -49,14 +49,40 @@ Cell padding is the space between the cell edges and the cell content. By defaul
 Cell spacing is the space between each cell. By default the space is set to 2 pixels.
 
 How can we club two or more rows or columns into a single row or column in an HTML table? With Example
-
+In a table in HTML, by using "Rowspan" we can convert many rows into single row and by "Colspan" we can convert many columns into single column.
+Ex: <tr><td rowspan="2" colspan="2">Name</td></tr>
 
 What is the difference between a block-level element and an inline element
+Block-level elements occupy (blocks) all the remaining space in the line. But inline-level elements occupy space according to its needs or size. 
+
 How to create a Hyperlink in HTML? With Example
+To create a hyperlink, anchor tag is used with href attribute. Ex: <a href="www.google.com"></a>
+
 What is the use of an iframe tag? With Example.
+To show additional information like google maps, youtube videos and any other websites in our websites iframe tag is used.
+Ex: <iframe width="560" height="315" src="https://www.youtube.com/embed/LLv8iay__FI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 What is the use of a span tag? Explain with example?
+The span tag is an inline container used to mark up a part of a text, or a part of a document.
+<p>My mother has <span style="color:blue">blue</span> eyes.</p>
+
 How to insert a picture into a background image of a web page? With Example.
+With the help of Background-image attribute in css we can add background image to our web page.
+<Body style="background-image: url('img_girl.jpg');"></body>
+
 How are active links different from normal links?
+Active links are currently active links which are red and underline. Normal links are blue and underline which are yet to visited.
+
 What are the different tags to separate sections of text?
+<section>, <br>, <hr>, <blockquote>, etc. 
+
 What is SVG?
+The Scalable Vector Graphics (SVG) file format is a popular tool for displaying two-dimensional graphics, charts, and illustrations on websites. 
+
 What is difference between HTML and XHTML?
+XHTML was developed to make HTML more extensible and flexible to work with other data formats (such as XML). In addition, browsers ignore errors in HTML pages, and 
+try to display the website even if it has some errors in the markup. So XHTML comes with a much stricter error handling.
+
+What are logical and physical tags in HTML?
+Logical tags : Logical tags are used to tell the browser that enclosed text is more important than other texts. 
+Physical tags : Physical tags are used to tell the browser how to display the text enclosed in the physical tag.
