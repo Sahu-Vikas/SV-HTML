@@ -50,25 +50,25 @@ Cell spacing is the space between each cell. By default the space is set to 2 pi
 
 How can we club two or more rows or columns into a single row or column in an HTML table? With Example
 In a table in HTML, by using "Rowspan" we can convert many rows into single row and by "Colspan" we can convert many columns into single column.
-Ex: <tr><td rowspan="2" colspan="2">Name</td></tr>
+Ex: <tr><td rowspan="2" colspan="2">Name
 
 What is the difference between a block-level element and an inline element
 Block-level elements occupy (blocks) all the remaining space in the line. But inline-level elements occupy space according to its needs or size. 
 
 How to create a Hyperlink in HTML? With Example
-To create a hyperlink, anchor tag is used with href attribute. Ex: <a href="www.google.com"></a>
+To create a hyperlink, anchor tag is used with href attribute. Ex: <a href="www.google.com">
 
 What is the use of an iframe tag? With Example.
 To show additional information like google maps, youtube videos and any other websites in our websites iframe tag is used.
-Ex: <iframe width="560" height="315" src="https://www.youtube.com/embed/LLv8iay__FI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Ex: <iframe width="560" height="315" src="https://www.youtube.com/embed/LLv8iay__FI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 
 What is the use of a span tag? Explain with example?
 The span tag is an inline container used to mark up a part of a text, or a part of a document.
-<p>My mother has <span style="color:blue">blue</span> eyes.</p>
+<p>My mother has <span style="color:blue">blue eyes.
 
 How to insert a picture into a background image of a web page? With Example.
 With the help of Background-image attribute in css we can add background image to our web page.
-<Body style="background-image: url('img_girl.jpg');"></body>
+<Body style="background-image: url('img_girl.jpg');">
 
 How are active links different from normal links?
 Active links are currently active links which are red and underline. Normal links are blue and underline which are yet to visited.
